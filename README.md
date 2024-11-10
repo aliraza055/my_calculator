@@ -1,16 +1,13 @@
-# my_calculator
+📱 My Calculator
 
-A new Flutter project.
+A simple yet powerful Calculator App built using Flutter. This project showcases a clean UI and provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+📱 Simple & Intuitive UI: Easy-to-use interface designed with Flutter widgets.
 
-A few resources to get you started if this is your first Flutter project:
+✨ Responsive Design: Optimized for both Android and iOS devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔢 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 100% Open Source: Feel free to fork and contribute!
